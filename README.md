@@ -11,7 +11,7 @@
     * ___skill_config.json___ 文件  
         以**JSON**格式存放 技能键位配置
 
-- **modules** 文件夹
+- **modules** 文件夹  
     * **utils** 文件夹  
         - **logger.py** 文件 日志工具
 
