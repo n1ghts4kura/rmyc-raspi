@@ -21,7 +21,7 @@
 ```sh
 # 切换到 项目根目录
 $ python3 -m venv ./venv
-$ source ./venv/bin/Activate
+$ source ./venv/bin/activate
 ```
 
 ### 运行

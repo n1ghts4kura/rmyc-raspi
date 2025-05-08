@@ -9,7 +9,7 @@ from logging import Logger
 current_path = os.getcwd()
 current_datetime = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S").replace(":", "-")
 
-log_filepath = f"{current_path}/assets/log/{current_datetime}.log"
+log_filepath = f"{current_path}/log/{current_datetime}.log"
 with open(log_filepath, "x", encoding="utf-8") as f:
     pass
 
